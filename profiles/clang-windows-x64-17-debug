@@ -7,5 +7,5 @@ compiler.libcxx=libstdc++11
 compiler.version=17
 os=Windows
 [buildenv]
-CC=clang-17
-CXX=clang++-17
+CC=clang
+CXX=clang++
