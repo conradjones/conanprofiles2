@@ -10,3 +10,5 @@ os=Windows
 [buildenv]
 CC=clang-cl
 CXX=clang-cl
+[conf]
+tools.microsoft.bash:subsystem=msys2
