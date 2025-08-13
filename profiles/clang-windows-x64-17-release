@@ -12,4 +12,4 @@ CC=clang-cl
 CXX=clang-cl
 [conf]
 tools.microsoft.bash:subsystem=msys2
-tools.microsoft.bash:path=c:\tools\msys64\usr\bin
+tools.microsoft.bash:path=c:\tools\msys64\usr\bin\bash.exe
