@@ -14,3 +14,4 @@ CXX=c:/tools/clang-cl.exe
 [conf]
 tools.microsoft.bash:subsystem=msys2
 tools.microsoft.bash:path=c:\tools\msys64\usr\bin\bash.exe
+tools.build:compiler_executables:{'c': 'c:/tools/clang-cl.exe', 'cpp': 'c:/tools/clang-cl.exe' }
